@@ -1,1 +1,1 @@
-First release of Hello World!
+Python tips for everyone :) 
